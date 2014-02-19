@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+import(limma)
+import(Biobase)
+import(GSA)
+import(ismev)
+import(MASS)
